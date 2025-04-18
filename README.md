@@ -14,3 +14,4 @@ Best Practices in Software Configuration Management
 6. Document Changes: Maintain changelogs and release notes to track what has been modified between versions.
 
 7. Backup Regularly: Ensure your repositories are backed up regularly to prevent data loss.
+.......................................................................................................
